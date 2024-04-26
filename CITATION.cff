@@ -7,9 +7,8 @@ authors:
   given-names: "William"
 - family-names: "Ali"
   given-names: "Rashid"
-    orcid: "https://orcid.org/0000-0002-9756-1909"
+  orcid: "https://orcid.org/0000-0002-9756-1909"
 title: "PEWFIPS-HV"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2024-04-26
 url: "https://github.com/wirelessATwest/PEWFIPS-HV"

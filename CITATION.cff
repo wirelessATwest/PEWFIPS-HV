@@ -8,7 +8,7 @@ authors:
 - family-names: "Ali"
   given-names: "Rashid"
   orcid: "https://orcid.org/0000-0002-9756-1909"
-title: "PEWFIPS-HV"
+title: "Dataset: Evaluating Wi-Fi Fingerprinting for Enhanced Indoor Positioning in Campus Environments"
 version: 1.0.0
 date-released: 2024-04-26
 url: "https://github.com/wirelessATwest/PEWFIPS-HV"
